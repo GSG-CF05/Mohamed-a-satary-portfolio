@@ -32,4 +32,4 @@ Throughout the developing process of the 'Portfolio' Webpage, practiced a lot on
 
 ## Final Result:-
 
-![](https://i.ibb.co/5KnDSMn/screencapture-127-0-0-1-5500-index-html-2022-02-03-16-56-29.png)
+![Web Page](https://i.ibb.co/5KnDSMn/screencapture-127-0-0-1-5500-index-html-2022-02-03-16-56-29.png)
