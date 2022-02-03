@@ -33,6 +33,6 @@ Throughout the developing process of the 'Portfolio' Webpage, practiced a lot on
 ## Final Result:-
 
 <p float="center">
- <img src="https://i.ibb.co/5KnDSMn/screencapture-127-0-0-1-5500-index-html-2022-02-03-16-56-29.png" width="400" />
+ <img src="https://www.linkpicture.com/q/screencapture-127-0-0-1-5500-index-html-2022-02-03-16_56_29.png" width="400" />
   
 </p>
