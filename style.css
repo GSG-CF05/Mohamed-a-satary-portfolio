@@ -81,3 +81,53 @@ nav {
   nav ul li {
     font-weight: var(--bold-font);
   }
+
+   /* about */
+  .hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2.5rem;
+    max-width: 68.75rem;
+    margin: auto;
+  }
+.bio {
+    width: 30rem;
+    padding: 0.625rem;
+    
+  }
+  
+  .bio h1 {
+    margin-bottom: var(--bottom-margin);
+  }
+  
+  .bio p {
+    line-height: var(--line-height);
+    padding: 0.3rem 0;
+  }
+  
+  .hero img {
+    width:  50%;
+    height: 50%;
+  }
+  
+  
+
+  /*more about*/
+  .more-about {
+    background-color: var(--bg-color);
+    padding: 1rem 6rem;
+  }
+  
+  .more-about h2 {
+    margin-bottom: var(--bottom-margin);
+    text-align: center;
+    color: var(--primary-color)
+    
+  }
+  
+  .more-about p {
+    line-height: var(--line-height);
+    padding: 0.4rem;
+    color: var(--primary-color)
+  }
